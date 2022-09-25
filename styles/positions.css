@@ -1,0 +1,11 @@
+.position__fixed{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1;
+}
+
+.position__fixed-2{
+    position: fixed;
+    right: -50px;
+}
